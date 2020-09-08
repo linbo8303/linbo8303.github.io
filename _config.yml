@@ -1,1 +1,1 @@
-include: [".well-known", "on"]
+include: [".well-known", "on/reset-password"]
