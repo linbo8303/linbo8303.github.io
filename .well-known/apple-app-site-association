@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "R8F2N62U7V.com.mymusclechef.mecca",
-                "paths": [ "/on/*" ]
+                "paths": [ "/on/*", "/mobile/*" ]
             }
         ]
     }
