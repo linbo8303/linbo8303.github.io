@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mymusclechef.mecca.prod",
+      "sha256_cert_fingerprints": [
+        "E7:22:12:6F:E2:A2:AA:4F:20:05:C3:6F:3D:4E:92:E7:7C:18:D9:0C:8E:BB:41:82:7E:CD:B5:5F:30:EC:C6:4A"
+      ]
+    }
+  }
+]
